@@ -1,0 +1,69 @@
+Person 1: 
+From Germany
+
+1. Age: 31-40
+2. Gender: Female
+3. Highest level of education: Master's degree
+4. Annual earnings: $60,000+
+5. Number of devices used daily: 3 devices
+6. Tech-savviness: 4
+7. Location: Germany
+8. Social media platforms used regularly: LinkedIn, Twitter, Facebook, Instagram
+9. Time spent on social media per day: 1-2 hours
+10. Primary reasons for using social media: Staying updated on news and trends, Connecting with family and friends, Entertainment
+11. Frequency of posting on social media platforms: Monthly for all platforms
+12. Frequency of engagement with content on social media: Every day
+13. Importance of using social media platforms from local culture: Moderately Important
+14. Frequency of following or engaging with content from local culture on social media: Sometimes
+15. Preferred modes of communication for professional interaction: Email, Video calls, Instant messaging apps
+16. Preferred modes of communication for personal interaction: Text messaging (SMS), Email, Social media messaging
+17. Feeling overwhelmed by the number of communication tools: Sometimes
+18. Frequency of device upgrades: Every year
+19. Hours spent using devices per day: Smartphone - 3 hours, Laptop - 4 hours, Smartwatch - 1 hour, Smart home devices - 1 hour
+20. Comfort level in adopting new technologies: 4
+21. Devices/technologies currently used: Smartphones, Laptops/Desktops, Smart Home Devices
+22. Importance of new technologies supporting local language and cultural nuances: Extremely Important
+23. Preferred source to learn about new technologies or apps: Tech Blogs/Websites
+24. Concern about privacy of data on social media and communication platforms: 4
+25. Sharing personal information on social media: Sometimes
+26. Trust in local vs. international technology companies with data: Trust Both Equally
+27. Society's acceptance of new technologies: Slightly Accepting
+28. Impact of social media on cultural identity: Positive
+29. Motivation to adopt new technologies: Convenience, Innovation and curiosity, Necessity for work
+30. Frustrations when using social media: Data privacy concerns, Time consumption, Negative interactions
+31. Frustrations when adopting new technology: High cost, Privacy concerns, Compatibility issues with other devices
+
+Person 2:
+From Iran
+
+1. Age: 21-30
+2. Gender: Male
+3. Highest level of education: Bachelor's degree
+4. Annual earnings: $40,000-$60,000
+5. Number of devices used daily: 2 devices
+6. Tech-savviness: 3
+7. Location: Iran
+8. Social media platforms used regularly: Twitter, Instagram, YouTube
+9. Time spent on social media per day: More than 4 hours
+10. Primary reasons for using social media: Entertainment, Following influencers/brands, Connecting with family and friends
+11. Frequency of posting on social media platforms: Rarely for all platforms
+12. Frequency of engagement with content on social media: Once a week
+13. Importance of using social media platforms from local culture: Moderately Important
+14. Frequency of following or engaging with content from local culture on social media: Sometimes
+15. Preferred modes of communication for professional interaction: Email, Video calls, Instant messaging apps
+16. Preferred modes of communication for personal interaction: Text messaging (SMS), Video calls, Social media messaging
+17. Feeling overwhelmed by the number of communication tools: Yes
+18. Frequency of device upgrades: When it is necessary
+19. Hours spent using devices per day: Smartphone - 5 hours, Laptop - 3 hours, Smartwatch - N/A, Smart home devices - N/A
+20. Comfort level in adopting new technologies: 3
+21. Devices/technologies currently used: Smartphones, Laptops/Desktops, Tablets
+22. Importance of new technologies supporting local language and cultural nuances: Moderately Important
+23. Preferred source to learn about new technologies or apps: Online Ads
+24. Concern about privacy of data on social media and communication platforms: 5
+25. Sharing personal information on social media: No
+26. Trust in local vs. international technology companies with data: Trust International More
+27. Society's acceptance of new technologies: Very Accepting
+28. Impact of social media on cultural identity: Neutral
+29. Motivation to adopt new technologies: Social influence, Necessity for work, Cost-effectiveness
+30. Frustrations when using social media: Negative interactions, Excessive advertisements, Platform instability
+31. Frustrations when adopting new technology: Complexity of use, Lack of support or documentation, Slow performance

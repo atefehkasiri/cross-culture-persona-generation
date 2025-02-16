@@ -1,0 +1,26 @@
+Persona:
+Name: Sarah
+
+Age: 31-40
+Gender: Female
+Education: Master's degree
+Annual Income: Under $20,000
+Devices Used Daily: 2 devices
+Tech-savviness: 3
+Country: Iran
+Social Media Usage: Regularly uses WhatsApp and Instagram, spends 2-3 hours per day on social media
+Primary Reasons for Using Social Media: Connecting with family and friends, staying updated on news and trends, following influencers/brands
+Frequency of Posting on Social Media: Rarely
+Engagement with Content on Social Media: Several times a week
+Importance of Using Local Culture Social Media Platforms: Not Important
+Frequency of Device Upgrades: When it is necessary
+Comfort with Adopting New Technologies: 4
+Current Devices or Technologies Used: Smartphones, Laptops/Desktops
+Privacy Concerns: Very concerned
+Personal Information Sharing on Social Media: Sometimes
+Trust in Local vs. International Technology Companies: Trust International More
+Acceptance of New Technologies in Society: Very Accepting
+Impact of Social Media on Cultural Identity: Negative
+Motivation for Adopting New Technologies: Convenience, Necessity for work, Cost-effectiveness
+Frustrations when Using Social Media: Data privacy concerns, Time consumption
+Frustrations when Adopting New Technology: Privacy concerns, Compatibility issues with other devices, Lack of support or documentation

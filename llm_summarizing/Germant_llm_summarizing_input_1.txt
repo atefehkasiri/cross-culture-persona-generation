@@ -1,0 +1,265 @@
+Here is the survey questions:
+Section 1: Demographics
+(This question is mandatory)
+What is your age?
+1.Choose one of the following answers
+	- Under 20
+	- 21-30
+	- 31-40
+	- Above 40
+(This question is mandatory)
+2.What is your gender?
+ Choose one of the following answers
+	- Female
+	- Male
+	- Other / Non-binary
+(This question is mandatory)
+3.What is your highest level of education?
+ Choose one of the following answers
+	- High school
+	- Bachelorâ€™s degree
+	- Masterâ€™s degree
+	- Doctorate
+(This question is mandatory)
+4.How much do you earn annually (approximate)?
+ Choose one of the following answers
+	- Under $20,000
+	- $20,000-$40,000
+	- $40,000-$60,000
+	- $60,000+
+(This question is mandatory)
+5.How many devices do you use daily?
+(e.g., smartphone, laptop, tablet, smartwatch, etc.)
+ Choose one of the following answers
+	- 1 device
+	- 2 devices
+	- 3 devices
+	- 4 or more devices
+(This question is mandatory)
+6.How would you rate your tech-savviness?
+(1 being not tech-savvy at all, 5 being highly tech-savvy)
+ Choose one of the following answers
+	- 1
+	- 2
+	- 3
+	- 4
+	- 5
+(This question is mandatory)
+7.Where are you from ?
+ Choose one of the following answers
+	- U.S.A
+	- Germany
+	- Iran
+
+Section 2: Social Media Usage
+(This question is mandatory)
+8.Which social media platforms do you use regularly?
+(Select all that apply)
+ Check all that apply
+	- LinkedIn
+	- Twitter (X)
+	- Facebook
+	- Instagram
+	- WhatsApp
+	- TikTok
+	- youtube
+(This question is mandatory)
+9.How much time do you spend on social media per day?
+ Choose one of the following answers
+	- Less than 1 hour
+	- 1-2 hours
+	- 2-3 hours
+	- More than 4 hours
+(This question is mandatory)
+10.What are your primary reasons for using social media?
+(Rank the top 3 reasons)
+ Check all that apply
+	- Professional networking
+	- Staying updated on news and trends
+	- Connecting with family and friends
+	- Sharing personal or professional achievements
+	- Entertainment
+	- Following influencers/brands
+(This question is mandatory)
+11.How frequently do you post on the following platforms?
+	Daily	Weekly	Monthly	Rarely
+facebook	Daily	Weekly	Monthly	Rarely
+youtube	Daily	Weekly	Monthly	Rarely
+Instagram	Daily	Weekly	Monthly	Rarely
+whatsApp	Daily	Weekly	Monthly	Rarely
+(This question is mandatory)
+12.How often do you engage with content (like, comment, share) on social media?
+ Choose one of the following answers
+	- Every day
+	- Several times a week
+	- Once a week
+	- Rarely
+(This question is mandatory)
+13.How important is it for you to use social media platforms that are from your local culture?(platforms that are based on your country)
+ Choose one of the following answers
+	- Not Important
+	- Moderately Important
+	- Extremely Important
+(This question is mandatory)
+14.Do you follow or engage with content from your local culture on social media?
+ Choose one of the following answers
+	- Always
+	- Sometimes
+	- Rarely
+	- Never
+Section 3: Communication Habits
+(This question is mandatory)
+15.Which modes of communication do you prefer for professional interaction? (Select all that apply) 
+ Check all that apply
+	- Phone calls
+	- Text messaging (SMS)
+	- Email
+	- Video calls
+	- Social media messaging
+	- Instant messaging apps (e.g., WhatsApp, Messenger,Telegram)
+(This question is mandatory)
+16.Which modes of communication do you prefer personal interaction? (Select all that apply)
+ Check all that apply
+	- Phone calls
+	- Text messaging (SMS)
+	- Email
+	- Video calls
+	- Social media messaging
+	- Instant messaging apps (e.g., WhatsApp, Messenger,Telegram)
+(This question is mandatory)
+17.Do you feel overwhelmed by the number of communication tools you use?
+ Choose one of the following answers
+	- Yes
+	- No
+	- Sometimes
+Section 4 : Technology Adoption and Usage
+(This question is mandatory)
+18.How frequently do you upgrade your devices (smartphone, laptop, etc.)?
+ Choose one of the following answers
+	- When the new version is released
+	- Every year
+	- When it is necessary
+(This question is mandatory)
+19.How many hours a day do you spend using the following devices?
+	- Smartphone
+	- Laptop
+	- Smartwatch
+	- Smart home devices (e.g., Alexa, Google Home)
+(This question is mandatory)
+20.How comfortable are you adopting new technologies (e.g., smart home devices, AI assistants)?
+(Rate from 1-5)
+ Choose one of the following answers
+	- 1 â€“ Not comfortable
+	- 2
+	- 3
+	- 4
+	- 5 â€“ Very comfortable
+(This question is mandatory)
+21.Which of the following devices or technologies do you currently use?
+(Select all that apply)
+ Check all that apply
+	- Smartphones
+	- Laptops/Desktops
+	- Tablets
+	- Smartwatches/Fitness Trackers
+	- Smart Home Devices (e.g., Alexa, Google Home)
+	- Virtual Reality (VR) Devices / Augmented Reality (AR) Apps
+	- Cloud-based tools for work (Microsoft Azure, Google Cloud, etc.)
+(This question is mandatory)
+22.How important is it for you that new technologies support your local language and cultural nuances?
+ Choose one of the following answers
+	- Not Important
+	- Moderately Important
+	- Extremely Important
+(This question is mandatory)
+23.How do you usually learn about new technologies or apps?
+ Choose one of the following answers
+	- Social Media
+	- Friends/Family
+	- Tech Blogs/Websites
+	- Online Ads
+	- In-store Promotions
+
+Section 5: Privacy and Security
+(This question is mandatory)
+24.How concerned are you about the privacy of your data on social media and communication platforms?
+(Rate on a scale of 1-5)
+ Choose one of the following answers
+	- 1 â€“ Not concerned
+	- 2
+	- 3
+	- 4
+	- 5 â€“ Very concerned
+(This question is mandatory)
+25.Do you share personal information on social media?
+ Choose one of the following answers
+	- Yes
+	- No
+	- Sometimes
+(This question is mandatory)
+26.How much do you trust local vs. international technology companies with your data?
+ Choose one of the following answers
+	- Trust Local More
+	- Trust International More
+	- Trust Both Equally
+	- Trust Neither
+
+Section 6: Cultural Perceptions of Technology and Social Media
+(This question is mandatory)
+27.In your opinion, how accepting is your society of new technologies?
+ Choose one of the following answers
+	- Not Accepting
+	- Slightly Accepting
+	- Very Accepting
+	- Completely Accepting
+(This question is mandatory)
+28.Do you feel that social media has a positive or negative impact on your cultural identity?
+ Choose one of the following answers
+	- Strongly Negative
+	- Negative
+	- Neutral
+	- Positive
+	- Strongly Positive
+
+Section 7: Motivation and Frustrations in Using Technology and Social Media
+(This question is mandatory)
+29.What motivates you most to adopt new technologies?
+(Select up to 3)
+ Check all that apply
+	- Convenience
+	- Productivity
+	- Social influence
+	- Innovation and curiosity
+	- Necessity for work
+	- Cost-effectiveness
+(This question is mandatory)
+30.What frustrates you the most when using social media?
+(Select up to 3)
+ Check all that apply
+	- Data privacy concerns
+	- Time consumption
+	- Negative interactions (e.g., cyberbullying)
+	- Excessive advertisements
+	- Algorithmic content bias
+	- Platform instability
+(This question is mandatory)
+31.What frustrates you the most when adopting new technology?
+(Select up to 3)
+ Check all that apply
+	- Complexity of use
+	- High cost
+	- Privacy concerns
+	- Compatibility issues with other devices
+	- Lack of support or documentation
+	- Slow performance
+	- Not compatible with local infrastructure
+
+
+
+Here are user data (people's answers to the survey questions):
+[['21-30', 'Female', 'Master’s degree', '$20,000-$40,000', '3 devices', 5, 'Germany', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Yes', 'Yes', '2-3 hours', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Rarely', 'Rarely', 'Rarely', 'Daily', 'Several times a week', 'Moderately Important', 'Sometimes', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'Every year', '3', '9', '0', '0', '3', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'Yes', 'Extremely Important', 'Social Media', '2', 'Sometimes', 'Trust Local More', 'Slightly Accepting', 'Negative', 'No', 'Yes', 'No', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No'], ['21-30', 'Male', 'Bachelor’s degree', 'Under $20,000', '3 devices', 5, 'Germany', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Less than 1 hour', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'Rarely', 'Weekly', 'Daily', 'Daily', 'Once a week', 'Not Important', 'Rarely', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'Yes', 'Sometimes', 'When it is necessary', '1', '8', '0', '0', '4', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'Yes', 'Not Important', 'Tech Blogs/Websites', '4', 'No', 'Trust Local More', 'Slightly Accepting', 'Neutral', 'Yes', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'Yes', 'No', 'Yes', 'No', 'No', 'No'], ['21-30', 'Female', 'Master’s degree', '$40,000-$60,000', '3 devices', 4, 'Germany', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', '2-3 hours', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Rarely', 'Rarely', 'Monthly', 'Rarely', 'Every day', 'Moderately Important', 'Always', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'Sometimes', 'When it is necessary', '6', '10', '0', '0.5', '4', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Not Important', 'Social Media', '2', 'Sometimes', 'Trust Local More', 'Slightly Accepting', 'Neutral', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes'], ['Under 20', 'Female', 'High school', 'Under $20,000', '2 devices', 4, 'Germany', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'No', '2-3 hours', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Rarely', 'Rarely', 'Weekly', 'Daily', 'Several times a week', 'Moderately Important', 'Rarely', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'When it is necessary', '4', '0', '0', '0', '3', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'Moderately Important', 'Social Media', '3', 'Sometimes', 'Trust International More', 'Very Accepting', 'Positive', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No'], ['31-40', 'Female', 'High school', '$20,000-$40,000', '3 devices', 3, 'Germany', 'No', 'No', 'No', 'No', 'Yes', 'No', 'Yes', '1-2 hours', 'No', 'Yes', 'Yes', 'No', 'Yes', 'No', 'Rarely', 'Rarely', 'Rarely', 'Weekly', 'Several times a week', 'Moderately Important', 'Always', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'Sometimes', 'When it is necessary', '3', '0', '0,5', '1', '2', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Extremely Important', 'Friends/Family', '3', 'Sometimes', 'Trust Local More', 'Completely Accepting', 'Neutral', 'No', 'No', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No'], ['31-40', 'Male', 'High school', '$40,000-$60,000', '1 device', 4, 'Germany', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', '1-2 hours', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'Monthly', 'Rarely', 'Monthly', 'Daily', 'Several times a week', 'Moderately Important', 'Always', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'When it is necessary', '4', '0', '0', '0,25', '5 – Very comfortable', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'No', 'No', 'Extremely Important', 'Social Media', '3', 'Sometimes', 'Trust Local More', 'Slightly Accepting', 'Positive', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No'], ['Above 40', 'Female', 'Bachelor’s degree', 'Under $20,000', '3 devices', 3, 'Germany', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', '1-2 hours', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'No', 'Rarely', 'Rarely', 'Weekly', 'Daily', 'Every day', 'Extremely Important', 'Sometimes', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes', 'Yes', 'When it is necessary', '5', '1', '0', '0', '3', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'Yes', 'Extremely Important', 'Friends/Family', '3', 'Sometimes', 'Trust Local More', 'Very Accepting', 'Negative', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No'], ['31-40', 'Female', 'High school', 'Under $20,000', '2 devices', 4, 'Germany', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', '1-2 hours', 'No', 'Yes', 'Yes', 'No', 'Yes', 'No', 'Daily', 'Monthly', 'Daily', 'Daily', 'Several times a week', 'Moderately Important', 'Sometimes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', 'Yes', 'Yes', 'Sometimes', 'When the new version is released', '3', '6', '0', '0', '3', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'Moderately Important', 'Social Media', '2', 'Sometimes', 'Trust Local More', 'Very Accepting', 'Neutral', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'No'], ['21-30', 'Female', 'High school', 'Under $20,000', '3 devices', 3, 'Germany', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'Yes', '1-2 hours', 'No', 'Yes', 'Yes', 'No', 'Yes', 'No', 'Rarely', 'Rarely', 'Rarely', 'Rarely', 'Rarely', 'Moderately Important', 'Sometimes', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'When it is necessary', '2 hours', '3 hours', '-', '-', '2', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'Extremely Important', 'Social Media', '4', 'Sometimes', 'Trust Local More', 'Very Accepting', 'Negative', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'No', 'Yes'], ['31-40', 'Male', 'High school', '$20,000-$40,000', '4 or more devices', 4, 'Germany', 'No', 'No', 'No', 'No', 'Yes', 'No', 'Yes', '2-3 hours', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Rarely', 'Daily', 'Rarely', 'Daily', 'Every day', 'Moderately Important', 'Rarely', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'No', 'When it is necessary', '3', '9', '0', '0', '1 – Not comfortable', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Moderately Important', 'Tech Blogs/Websites', '5 – Very concerned', 'No', 'Trust Local More', 'Very Accepting', 'Strongly Negative', 'No', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No'], ['31-40', 'Female', 'Master’s degree', '$20,000-$40,000', '2 devices', 4, 'Germany', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'No', '1-2 hours', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Rarely', 'Rarely', 'Monthly', 'Daily', 'Several times a week', 'Moderately Important', 'Sometimes', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'Yes', 'Sometimes', 'When it is necessary', '2', '0', '0', '0', '1 – Not comfortable', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', 'Not Important', 'Friends/Family', '3', 'Yes', 'Trust Local More', 'Slightly Accepting', 'Negative', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'No', 'No'], ['31-40', 'Female', 'Master’s degree', '$40,000-$60,000', '2 devices', 2, 'Germany', 'No', 'No', 'No', 'No', 'Yes', 'No', 'Yes', '1-2 hours', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'Rarely', 'Rarely', 'Rarely', 'Weekly', 'Once a week', 'Extremely Important', 'Sometimes', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', 'When it is necessary', '3', '3', '0', '0', '2', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'Extremely Important', 'Friends/Family', '5 – Very concerned', 'No', 'Trust Local More', 'Slightly Accepting', 'Negative', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'No', 'No', 'No'], ['Above 40', 'Male', 'Master’s degree', '$40,000-$60,000', '3 devices', 3, 'Germany', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Yes', '2-3 hours', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'Weekly', 'Monthly', 'Rarely', 'Rarely', 'Rarely', 'Extremely Important', 'Sometimes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'When it is necessary', '2', '6', '0', '1', '3', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Extremely Important', 'Friends/Family', '4', 'No', 'Trust International More', 'Slightly Accepting', 'Neutral', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No'], ['21-30', 'Female', 'Bachelor’s degree', '$20,000-$40,000', '3 devices', 2, 'Germany', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'No', '2-3 hours', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', 'Rarely', 'Rarely', 'Daily', 'Daily', 'Several times a week', 'Not Important', 'Rarely', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', 'Every year', '4', '5', '0', '0', '2', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'Not Important', 'Friends/Family', '3', 'Sometimes', 'Trust International More', 'Very Accepting', 'Neutral', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No']] 
+
+Generate a single personas to represent the given user data and answer to all the 31 questions of the survey on behalf of the personas that you created.
+- Rule 1: Do not add any information that does not exist in the user data.
+- Rule 2: You may combine, synthesize, or rephrase multiple user data into a single persona.
+Present only the questions and answers of the generated personas.

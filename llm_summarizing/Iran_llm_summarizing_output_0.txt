@@ -1,0 +1,46 @@
+Persona:
+Name: Sara
+
+Age: 21-30
+Gender: Female
+Education: Master’s degree
+Annual Income: Under $20,000
+Number of Devices Used Daily: 2 devices
+Tech-savviness: 4
+Country: Iran
+
+Social Media Usage:
+- Platforms used regularly: Yes (LinkedIn, WhatsApp, Instagram)
+- Time spent on social media per day: 1-2 hours
+- Primary reasons for using social media: Staying updated on news and trends, Connecting with family and friends, Entertainment
+- Frequency of posting: Rarely
+- Frequency of engaging with content: Rarely
+- Importance of using social media platforms from local culture: Moderately Important
+- Engagement with content from local culture: Sometimes
+
+Communication Habits:
+- Preferred modes of communication for professional interaction: Text messaging (SMS), Email, Social media messaging
+- Preferred modes of communication for personal interaction: Text messaging (SMS), Social media messaging
+- Feeling overwhelmed by the number of communication tools used: No
+
+Technology Adoption and Usage:
+- Frequency of device upgrades: When it is necessary
+- Hours spent daily using devices: Smartphone - 3 hours, Laptop - 4 hours
+- Comfort level in adopting new technologies: Very comfortable
+- Devices or technologies currently used: Smartphones, Laptops/Desktops, Tablets
+- Importance of new technologies supporting local language and cultural nuances: Not Important
+- Method of learning about new technologies or apps: Tech Blogs/Websites
+
+Privacy and Security:
+- Concern about privacy of data on social media platforms: Not concerned
+- Sharing personal information on social media: No
+- Trust in local vs. international technology companies with data: Trust International More
+
+Cultural Perceptions of Technology and Social Media:
+- Perception of society's acceptance of new technologies: Slightly Accepting
+- Impact of social media on cultural identity: Neutral
+
+Motivation and Frustrations in Using Technology and Social Media:
+- Motivation to adopt new technologies: Productivity, Innovation and curiosity
+- Frustrations when using social media: Negative interactions (e.g., cyberbullying)
+- Frustrations when adopting new technology: Complexity of use, High cost, Compatibility issues with other devices

@@ -1,0 +1,125 @@
+User Persona: 
+Name: Anna Mueller
+Age: 35
+Gender: Female
+Education: Master's degree
+Annual Income: $40,000-$60,000
+Number of Devices Used Daily: 3
+Tech-savviness: 4
+Location: Germany
+
+1. What is your age?
+- 31-40
+
+2. What is your gender?
+- Female
+
+3. What is your highest level of education?
+- Master's degree
+
+4. How much do you earn annually (approximate)?
+- $40,000-$60,000
+
+5. How many devices do you use daily?
+- 3 devices
+
+6. How would you rate your tech-savviness?
+- 4
+
+7. Where are you from?
+- Germany
+
+8. Which social media platforms do you use regularly?
+- Twitter
+- Facebook
+- Instagram
+- YouTube
+
+9. How much time do you spend on social media per day?
+- 1-2 hours
+
+10. What are your primary reasons for using social media? (Rank the top 3 reasons)
+- Connecting with family and friends
+- Staying updated on news and trends
+- Entertainment
+
+11. How often do you post on the following platforms?
+- Facebook: Daily
+- YouTube: Weekly
+- Instagram: Monthly
+- WhatsApp: Daily
+
+12. How often do you engage with content on social media?
+- Every day
+
+13. How important is it for you to use social media platforms that are from your local culture?
+- Extremely Important
+
+14. Do you follow or engage with content from your local culture on social media?
+- Sometimes
+
+15. Which modes of communication do you prefer for professional interaction?
+- Phone calls
+- Email
+- Video calls
+
+16. Which modes of communication do you prefer personal interaction?
+- Phone calls
+- Text messaging (SMS)
+- Video calls
+
+17. Do you feel overwhelmed by the number of communication tools you use?
+- Sometimes
+
+18. How frequently do you upgrade your devices?
+- Every year
+
+19. How many hours a day do you spend using the following devices?
+- Smartphone: 3 hours
+- Laptop: 4 hours
+- Smartwatch: 1 hour
+- Smart home devices: N/A
+
+20. How comfortable are you adopting new technologies?
+- 4
+
+21. Which of the following devices or technologies do you currently use?
+- Smartphones
+- Laptops/Desktops
+- Smartwatches/Fitness Trackers
+
+22. How important is it for you that new technologies support your local language and cultural nuances?
+- Moderately Important
+
+23. How do you usually learn about new technologies or apps?
+- Tech Blogs/Websites
+
+24. How concerned are you about the privacy of your data on social media and communication platforms?
+- 4
+
+25. Do you share personal information on social media?
+- Sometimes
+
+26. How much do you trust local vs. international technology companies with your data?
+- Trust International More
+
+27. In your opinion, how accepting is your society of new technologies?
+- Slightly Accepting
+
+28. Do you feel that social media has a positive or negative impact on your cultural identity?
+- Negative
+
+29. What motivates you most to adopt new technologies?
+- Convenience
+- Innovation and curiosity
+- Necessity for work
+
+30. What frustrates you the most when using social media?
+- Data privacy concerns
+- Excessive advertisements
+- Algorithmic content bias
+
+31. What frustrates you the most when adopting new technology?
+- High cost
+- Privacy concerns
+- Compatibility issues with other devices

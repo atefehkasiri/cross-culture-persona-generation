@@ -1,0 +1,42 @@
+User Persona: 
+Name: Amir
+Age: 31-40
+Gender: Male
+Education: Bachelor's degree
+Annual Income: $40,000-$60,000
+Number of Daily Devices: 3 devices
+Tech-Savviness: 4
+Location: Iran
+
+Survey Questions and Answers:
+1. Age: 31-40
+2. Gender: Male
+3. Highest level of education: Bachelor's degree
+4. Annual income: $40,000-$60,000
+5. Number of devices used daily: 3 devices
+6. Tech-savviness rating: 4
+7. Location: Iran
+8. Social media platforms used regularly: Twitter, Instagram
+9. Time spent on social media per day: 1-2 hours
+10. Primary reasons for using social media: Entertainment, Staying updated on news and trends, Connecting with family and friends
+11. Frequency of posting on social media platforms: Instagram - Daily, Twitter - Daily
+12. Engagement with content on social media: Every day
+13. Importance of using social media platforms from local culture: Extremely important
+14. Engagement with content from local culture on social media: Always
+15. Preferred modes of communication for professional interaction: Email, Instant messaging apps
+16. Preferred modes of communication for personal interaction: Phone calls, Text messaging
+17. Feeling overwhelmed by communication tools: Sometimes
+18. Frequency of device upgrades: When necessary
+19. Hours spent daily on devices: Smartphone - 4 hours, Laptop - 6 hours, Smartwatch - 1 hour, Smart home devices - 2 hours
+20. Comfort level with adopting new technologies: 4
+21. Devices or technologies currently used: Smartphones, Laptops/Desktops, Smartwatches/Fitness Trackers
+22. Importance of new technologies supporting local language and culture: Extremely important
+23. Source of learning about new technologies or apps: Tech Blogs/Websites
+24. Concern about privacy of data on social media: 4
+25. Sharing personal information on social media: Sometimes
+26. Trust in local vs. international technology companies with data: Trust Local More
+27. Perception of society's acceptance of new technologies: Very accepting
+28. Impact of social media on cultural identity: Positive
+29. Motivation to adopt new technologies: Convenience, Necessity for work, Cost-effectiveness
+30. Frustrations when using social media: Data privacy concerns, Time consumption, Excessive advertisements
+31. Frustrations when adopting new technology: Complexity of use, High cost, Lack of support or documentation

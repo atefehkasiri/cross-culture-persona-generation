@@ -1,0 +1,51 @@
+Person 1: American Respondent
+Section 1: Demographics
+1. Under 20
+2. Female
+3. Bachelor's degree
+4. $60,000+
+5. 3 devices
+6. 4
+7. U.S.A
+
+Section 2: Social Media Usage
+8. Instagram, YouTube
+9. 2-3 hours
+10. Connecting with family and friends, Entertainment, Staying updated on news and trends
+11. Daily: Instagram; Weekly: YouTube; Monthly: WhatsApp, Facebook
+12. Several times a week
+13. Extremely Important
+14. Sometimes
+
+Section 3: Communication Habits
+15. Text messaging (SMS), Email, Video calls
+16. Text messaging (SMS), Video calls, Social media messaging
+17. Sometimes
+
+Section 4: Technology Adoption and Usage
+18. When it is necessary
+19. Smartphone: 4 hours; Laptop: 3 hours; Smartwatch: 1 hour; Smart home devices: 2 hours
+20. 4
+21. Smartphones, Laptops/Desktops, Smartwatches/Fitness Trackers, Cloud-based tools for work
+22. Moderately Important
+23. Tech Blogs/Websites
+
+Section 5: Privacy and Security
+24. 3
+25. Sometimes
+26. Trust International More
+
+Section 6: Cultural Perceptions of Technology and Social Media
+27. Slightly Accepting
+28. Positive
+
+Section 7: Motivation and Frustrations in Using Technology and Social Media
+29. Convenience, Innovation and curiosity
+30. Data privacy concerns, Time consumption
+31. Compatibility issues with other devices
+
+Person 2: German Respondent
+(Answers will differ based on German cultural and personal preferences)
+
+Person 3: Iranian Respondent
+(Answers will differ based on Iranian cultural and personal preferences)

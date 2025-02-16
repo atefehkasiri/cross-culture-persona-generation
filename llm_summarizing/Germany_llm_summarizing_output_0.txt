@@ -1,0 +1,33 @@
+Persona:
+
+Age: 21-30
+Gender: Female
+Education: Bachelor’s degree
+Income: $20,000-$40,000
+Devices Used Daily: 2 devices
+Tech-savviness: 4
+Country: Germany
+Social Media Platforms Used: No activity on LinkedIn, Yes on Twitter, No on Facebook, Yes on Instagram, Yes on WhatsApp, No on TikTok, No on YouTube
+Time Spent on Social Media per Day: 1-2 hours
+Primary Reasons for Using Social Media: Staying updated on news and trends, Connecting with family and friends, Sharing personal or professional achievements
+Frequency of Posting on Social Media: Rarely on all platforms
+Frequency of Engagement with Content on Social Media: Rarely
+Importance of Using Local Culture Social Media Platforms: Moderately Important
+Engagement with Content from Local Culture on Social Media: Sometimes
+Prefered Modes of Communication for Professional Interaction: Email, Social media messaging
+Prefered Modes of Communication for Personal Interaction: Text messaging (SMS), Email
+Feeling Overwhelmed by Number of Communication Tools Used: No
+Frequency of Device Upgrades: When it is necessary
+Hours Spent Using Devices Daily: 2 hours on smartphone, 8 hours for work on laptop, 0 hours on smartwatch, 0 hours on smart home devices
+Comfort with Adopting New Technologies: 3 out of 5
+Current Technologies Used: Smartphones, Laptops/Desktops, Smart Home Devices (e.g., Alexa, Google Home)
+Importance of New Technologies Supporting Local Language and Cultural Nuances: Moderately Important
+Learn About New Technologies or Apps From: Friends/Family
+Concern about Privacy on Social Media and Communication Platforms: 4 out of 5
+Sharing Personal Information on Social Media: No
+Trust in Local vs. International Technology Companies with Data: Trust Neither
+Society Acceptance of New Technologies: Slightly Accepting
+Impact of Social Media on Cultural Identity: Neutral
+Motivation to Adopt New Technologies: Convenience, Innovation and curiosity
+Frustrations with Social Media: Time consumption, Excessive advertisements
+Frustrations with Adopting New Technology: Complexity of use, Privacy concerns, Compatibility issues with other devices.

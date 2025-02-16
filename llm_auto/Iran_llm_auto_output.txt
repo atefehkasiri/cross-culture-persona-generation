@@ -1,0 +1,61 @@
+Persona 1:
+Age: 21-30
+Gender: Female
+Education: Master�s degree
+Annual Income: Under $20,000
+Number of Devices: 3
+Tech-savviness: 3
+Country: Iran
+Social Media Platforms: Yes
+Time Spent on Social Media per day: 2-3 hours
+Reasons for Using Social Media: Staying updated on news and trends, Connecting with family and friends
+Frequency of Posting: Rarely
+Engagement with Content: Rarely
+Preference for Professional Interaction: Text messaging (SMS), Email
+Preference for Personal Interaction: Text messaging (SMS), Email
+Feeling Overwhelmed by Communication Tools: No
+Device Upgrade Frequency: When it is necessary
+Hours Spent Using Devices: Smartphone - 4 hours, Laptop - 6 hours
+Comfort with Adopting New Technologies: 4
+Current Technologies Used: Smartphones, Laptops/Desktops, Smartwatches/Fitness Trackers
+Importance of Local Language Support in Technologies: Not Important
+Learning about New Technologies: Tech Blogs/Websites
+Privacy Concern on Social Media: 3
+Sharing Personal Information on Social Media: Sometimes
+Trust in Local vs. International Tech Companies: Trust International More
+Society's Acceptance of New Technologies: Very Accepting
+Impact of Social Media on Cultural Identity: Positive
+Motivations for Adopting New Technologies: Productivity, Necessity for work
+Frustrations with Social Media: Time consumption, Negative interactions
+Frustrations with Adopting New Technology: High cost, Privacy concerns
+
+Persona 2:
+Age: Above 40
+Gender: Male
+Education: Bachelor�s degree
+Annual Income: Under $20,000
+Number of Devices: 2
+Tech-savviness: 3
+Country: Iran
+Social Media Platforms: No
+Time Spent on Social Media per day: Less than 1 hour
+Reasons for Using Social Media: - 
+Frequency of Posting: - 
+Engagement with Content: - 
+Preference for Professional Interaction: Phone calls, Email
+Preference for Personal Interaction: Phone calls, Email
+Feeling Overwhelmed by Communication Tools: Yes
+Device Upgrade Frequency: When it is necessary
+Hours Spent Using Devices: Smartphone - 2 hours, Laptop - 1 hour
+Comfort with Adopting New Technologies: 2
+Current Technologies Used: Smartphones, Laptops/Desktops
+Importance of Local Language Support in Technologies: Moderately Important
+Learning about New Technologies: Friends/Family
+Privacy Concern on Social Media: 5
+Sharing Personal Information on Social Media: Sometimes
+Trust in Local vs. International Tech Companies: Trust Local More
+Society's Acceptance of New Technologies: Not Accepting
+Impact of Social Media on Cultural Identity: Neutral
+Motivations for Adopting New Technologies: Convenience, Social influence
+Frustrations with Social Media: Data privacy concerns, Excessive advertisements
+Frustrations with Adopting New Technology: High cost, Compatibility issues with other devices
