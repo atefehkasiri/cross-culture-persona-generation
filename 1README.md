@@ -2,6 +2,8 @@
 
 <img src="figures/workflow2.png" alt="Three persona-generation workflows that were used in this project." sizes=100% style="vertical-align:top">
 
+Picture is modified from papare "Understanding Human-AI Workflows for Generating Personas doi: 10.1145/3643834.3660729."
+
 <ul style="margin-bottom: 20px;">
   <li style="margin-bottom: 10px;">This project shows that LLMs can help generate representative personas from user data, in a human-AI workflow.</li>
   <li style="margin-bottom: 10px;">with this project you can try 3 different persona-generation workflows.</li>
